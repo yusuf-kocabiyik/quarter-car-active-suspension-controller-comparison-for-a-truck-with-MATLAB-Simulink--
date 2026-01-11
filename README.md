@@ -10,3 +10,8 @@ By inspecting the system, we can derive its mathematical model like down below;<
 
 <img width="482" height="172" alt="2" src="https://github.com/user-attachments/assets/aafc91d7-79cc-41be-b011-60adca05f6bb" /> 
 <img width="423" height="172" alt="3" src="https://github.com/user-attachments/assets/9b2d8a6c-1320-49a5-9e72-905f41cd9434" />
+<br/><br/> 
+With these model and parameters we can evaluate our state space model likes this and A,B,C,D matrixes.<br/>
+
+
+<img width="811" height="282" alt="4" src="https://github.com/user-attachments/assets/95666bc3-223c-46bb-b426-a88950b73098" />
