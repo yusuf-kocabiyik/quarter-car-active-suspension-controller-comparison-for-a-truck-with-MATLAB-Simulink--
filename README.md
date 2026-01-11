@@ -19,3 +19,7 @@ With these model and parameters we can evaluate our state space model likes this
 <br/><br/>
  Here is our LQR - Optimal LQR simulink model;
 <img width="722" height="360" alt="5" src="https://github.com/user-attachments/assets/af146f1b-d50a-4058-bf8c-21758ac482a3" />
+
+Lastly our comparison results to two different road profiles input first input : bump road,  second input: ISO D type road profile;<br/>
+
+<img width="410" height="266" alt="6" src="https://github.com/user-attachments/assets/6b5bb57d-17a2-4df3-a3cd-8fd4f022021f" />
