@@ -1,4 +1,4 @@
-<h2>In this project,</h2>h2> <br></br>
+<h2>In this project,</h2> <br></br>
 we aimed to model a quarter car active suspension system with three different controllers and compare the body and suspension travel results with given different road profiles as inputs to the system. 
 These controllers are inclueds: PID controller, LQR and genetic algorithm(GA) optimized LQR. With these controllers we have compared active suspension behaviours and evaluated different results.
 
@@ -22,7 +22,7 @@ With these model and parameters we can evaluate our state space model likes this
 
 Lastly our comparison results to two different road profile --> first input : bump road,  second input: ISO D type road profile;<br/>
 
-Bump as a step input:
+Bump as a step input:<br/>
 <img width="410" height="266" alt="6" src="https://github.com/user-attachments/assets/6b5bb57d-17a2-4df3-a3cd-8fd4f022021f" />
 <img width="362" height="220" alt="7" src="https://github.com/user-attachments/assets/229ebb88-88b4-4859-b6be-28852fe45732" />
 <br/><br/>
