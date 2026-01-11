@@ -1,4 +1,4 @@
-<strong>In this project,</strong> <br></br>
+<strong align= "center">In this project,</strong> <br></br>
 we aimed to model a quarter car active suspension system with three different controllers and compare the body and suspension travel results with given different road profiles as inputs to the system. 
 These controllers are inclueds: PID controller, LQR and genetic algorithm(GA) optimized LQR. With these controllers we have compared active suspension behaviours and evaluated different results.
 
