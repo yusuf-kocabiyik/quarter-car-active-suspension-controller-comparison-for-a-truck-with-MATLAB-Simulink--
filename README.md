@@ -15,4 +15,7 @@ With these model and parameters we can evaluate our state space model likes this
 
 
 <img width="811" height="282" alt="4" src="https://github.com/user-attachments/assets/95666bc3-223c-46bb-b426-a88950b73098" />
- 
+
+<br/><br/>
+ Here is our LQR - Optimal LQR simulink model;
+<img width="722" height="360" alt="5" src="https://github.com/user-attachments/assets/af146f1b-d50a-4058-bf8c-21758ac482a3" />
