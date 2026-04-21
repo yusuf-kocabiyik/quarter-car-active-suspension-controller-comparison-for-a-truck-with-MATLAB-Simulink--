@@ -1,6 +1,75 @@
-<h2>In this project,</h2> <br></br>
-we aimed to model a quarter car active suspension system with three different controllers and compare the body and suspension travel results with given different road profiles as inputs to the system. 
-These controllers are inclueds: PID controller, LQR and genetic algorithm(GA) optimized LQR. With these controllers we have compared active suspension behaviours and evaluated different results.
+<h1>Quarter Car Active Suspension Control System (MATLAB/Simulink)</h1>
+
+<p>
+This project focuses on modeling and control of a quarter car active suspension system for a truck using MATLAB/Simulink.
+The objective is to improve ride comfort and road handling by designing and comparing different control strategies.
+</p>
+
+
+<h2> Overview</h2>
+<p>
+A quarter car model is used to represent the vertical dynamics of a vehicle suspension system.
+Different road profiles are applied as inputs, and the system response is analyzed under various control approaches.
+</p>
+
+
+<h2>System Modeling</h2>
+<ul>
+  <li>Quarter car dynamic model with sprung and unsprung masses</li>
+  <li>Suspension spring and damping elements</li>
+  <li>Road disturbance as system input</li>
+</ul>
+
+<p>
+The system is modeled in MATLAB/Simulink using differential equations and dynamic system representation.
+</p>
+
+
+<h2>Control Strategies</h2>
+<p>
+Three different control approaches are implemented and compared:
+</p>
+
+<ul>
+  <li><b>PID Controller</b> – classical control approach</li>
+  <li><b>LQR Controller</b> – optimal control method</li>
+  <li><b>GA-Optimized LQR</b> – LQR parameters optimized using a genetic algorithm</li>
+</ul>
+
+
+<h2>Performance Evaluation</h2>
+<p>
+System performance is evaluated based on:
+</p>
+
+<ul>
+  <li>Body displacement (ride comfort)</li>
+  <li>Suspension travel</li>
+  <li>Response to different road profiles</li>
+</ul>
+
+<p>
+Simulation results are compared to assess the effectiveness of each control method.
+</p>
+
+<hr>
+
+<h2> Tools & Technologies</h2>
+<ul>
+  <li>MATLAB</li>
+  <li>Simulink</li>
+</ul>
+
+<h2>Results</h2>
+<p>
+Simulation results demonstrating the system response under different controllers and road profiles are provided below.
+These results highlight the trade-offs between comfort and stability for each control strategy.
+</p>
+
+<h2>Notes</h2>
+<p>
+This project demonstrates the application of both classical and modern control methods to a real-world engineering problem.
+</p>
 
 Below you can see our quarter car active suspension model:
 
